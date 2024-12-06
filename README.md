@@ -2,7 +2,6 @@
 Comparative Analysis of ML Models (KNN, SVM, Linear Regression) on Mushroom Dataset
 
 Project Description:
-
 Mushroom Dataset Exploration: Leveraging KNN, SVM, and Linear Models" is a machine learning project aimed at exploring and analyzing the Mushroom Dataset from the UCI Machine Learning Repository. This dataset contains descriptive information about various mushroom species, including physical characteristics such as shape, color, surface texture, and odor. The goal is to classify mushrooms as either "edible" or "poisonous."
 
 The project implements multiple machine learning approaches for classification, focusing on the following models:
